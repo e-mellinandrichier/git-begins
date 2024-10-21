@@ -4,3 +4,5 @@ git commit -m"message pour le commit"
 git push -u origin main (si 1e fois)
 sinon git push origin "nom de la branche"
 git pull
+git branch "nom de la nouvelle branche"
+git checkout "nom de la nouvelle branche"
